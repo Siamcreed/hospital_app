@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  diagnosis: MyString
+  born_on: 2023-05-25
+  created_at: 2023-05-25 19:41:24
+  updated_at: 2023-05-25 19:41:24
+
+two:
+  first_name: MyString
+  last_name: MyString
+  diagnosis: MyString
+  born_on: 2023-05-25
+  created_at: 2023-05-25 19:41:24
+  updated_at: 2023-05-25 19:41:24

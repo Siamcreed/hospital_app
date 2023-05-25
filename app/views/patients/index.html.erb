@@ -1,0 +1,17 @@
+<h1>All my patients</h1>
+
+<table>
+<tr>
+<th>Patient</th>
+<th>first_name</th>
+<th></th>
+</tr>
+
+
+ <% @patients.each do |patients|%>
+    <tr>
+    <td><%= patients.first_name %></td>
+    <td><%= %></td>
+    </tr>
+    <% end %>
+    </table>
